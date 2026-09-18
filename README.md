@@ -19,6 +19,7 @@ Start with the introductory rooms below, then continue with the Linux fundamenta
 | [Search Skills](Walkthroughs/Easy/Search_Skills.md) | Search engines, OSINT, and vulnerability research | Easy |
 | [Linux Fundamentals Part 1](Walkthroughs/Easy/Linux_Fundamentals_Part_1.md) | Linux commands, filesystems, and shell operators | Easy |
 | [Linux Fundamentals Part 2](Walkthroughs/Info/Linux_Fundamentals_Part_2.md) | SSH, permissions, and common directories | Info |
+| [Linux Fundamentals Part 3](Walkthroughs/Info/Linux_Fundamentals_Part_3.md) | Processes, cron, packages, and logs | Info |
 
 ## Contents
 
