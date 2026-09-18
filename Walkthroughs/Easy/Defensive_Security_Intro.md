@@ -1,9 +1,13 @@
 # Defensive Security Intro
 
+![Defensive Security Intro room icon](../../assets/room-icons/defensive-security-intro.png)
+
 - TryHackMe: [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
 - Difficulty: Easy
 - Estimated time: 25 minutes
 - Topics: `defensive security`, `SOC`, `threat intelligence`, `DFIR`, `malware analysis`, `SIEM`
+
+Room icon source: [TryHackMe CDN](https://cdn-images.tryhackme.com/room-icons/defensivesecurityintro-1785241444783.png)
 
 > This walkthrough is for the authorized TryHackMe room only. Do not investigate or access systems without permission.
 

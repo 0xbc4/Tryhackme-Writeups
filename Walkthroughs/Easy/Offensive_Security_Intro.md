@@ -1,9 +1,13 @@
 # Offensive Security Intro
 
+![Offensive Security Intro room icon](../../assets/room-icons/offensive-security-intro.png)
+
 - TryHackMe: [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 - Difficulty: Easy
 - Estimated time: 15 minutes
 - Topics: `offensive security`, `web enumeration`, `gobuster`
+
+Room icon source: [TryHackMe CDN](https://cdn-images.tryhackme.com/room-icons/offensivesecurityintro-1785241450434.png)
 
 > This walkthrough is for the authorized TryHackMe lab only. Do not scan or attack systems without explicit permission.
 
