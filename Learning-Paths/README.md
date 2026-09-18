@@ -2,9 +2,6 @@
 
 Progress notes and room links for TryHackMe learning paths.
 
-## Difficulty levels
+## Learning paths
 
-- [Easy](Easy/README.md)
-- [Medium](Medium/README.md)
-- [Hard](Hard/README.md)
-- [Info](Info/README.md)
+- [Cyber Security 101](Cyber_Security_101/README.md)

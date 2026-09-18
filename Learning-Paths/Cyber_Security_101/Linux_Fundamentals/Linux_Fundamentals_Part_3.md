@@ -6,7 +6,7 @@
 - Estimated time: 18 minutes
 - Topics: `text editors`, `Linux utilities`, `processes`, `cron`, `package management`, `logs`
 
-![Linux Fundamentals Part 3 room icon](../../../../assets/room-icons/linux-fundamentals-part-3.png)
+![Linux Fundamentals Part 3 room icon](../../../assets/room-icons/linux-fundamentals-part-3.png)
 
 Room icon source: [TryHackMe CDN](https://cdn-images.tryhackme.com/room-icons/linuxfundamentalspart3-1785241447458.png)
 

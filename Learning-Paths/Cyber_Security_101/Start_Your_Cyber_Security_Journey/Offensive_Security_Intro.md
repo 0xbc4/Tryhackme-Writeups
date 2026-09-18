@@ -1,6 +1,6 @@
 # Offensive Security Intro
 
-![Offensive Security Intro room icon](../../../../assets/room-icons/offensive-security-intro.png)
+![Offensive Security Intro room icon](../../../assets/room-icons/offensive-security-intro.png)
 
 - TryHackMe: [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 - Difficulty: Easy
@@ -29,7 +29,7 @@ http://fakebank.thm
 
 All actions below stay inside the authorized lab environment.
 
-![FakeBank lab homepage](../../../../assets/room-images/offensive-security-intro/fakebank-homepage.png)
+![FakeBank lab homepage](../../../assets/room-images/offensive-security-intro/fakebank-homepage.png)
 
 Source: [TryHackMe Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 

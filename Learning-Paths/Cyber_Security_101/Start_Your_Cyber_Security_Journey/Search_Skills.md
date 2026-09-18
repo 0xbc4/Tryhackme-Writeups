@@ -5,7 +5,7 @@
 - Estimated time: 60 minutes
 - Topics: `search engines`, `OSINT`, `threat intelligence`, `CVE`, `technical documentation`
 
-![Search Skills room icon](../../../../assets/room-icons/search-skills.png)
+![Search Skills room icon](../../../assets/room-icons/search-skills.png)
 
 Room icon source: [TryHackMe CDN](https://cdn-images.tryhackme.com/room-icons/searchskills-1785241452249.png)
 
@@ -51,7 +51,7 @@ The exact result count for broad searches can change over time, so treat numbers
 
 [Shodan](https://www.shodan.io/) indexes Internet-connected devices and services. It can help identify exposed technologies, service versions, and device banners.
 
-![Shodan search example](../../../../assets/room-images/search-skills/shodan-example.png)
+![Shodan search example](../../../assets/room-images/search-skills/shodan-example.png)
 
 Source: [TryHackMe Search Skills](https://tryhackme.com/room/searchskills)
 
