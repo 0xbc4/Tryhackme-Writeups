@@ -21,6 +21,7 @@ Begin with these two introductory rooms:
 | --- | --- | --- |
 | [Offensive Security Intro](Walkthroughs/Easy/Offensive_Security_Intro.md) | Reconnaissance and web enumeration | Easy |
 | [Defensive Security Intro](Walkthroughs/Easy/Defensive_Security_Intro.md) | Blue teams, SOC, DFIR, and SIEM | Easy |
+| [Search Skills](Walkthroughs/Easy/Search_Skills.md) | Search engines, OSINT, and vulnerability research | Easy |
 
 ## Contents
 
