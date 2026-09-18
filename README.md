@@ -25,9 +25,7 @@ Start with the introductory rooms below, then continue with the Linux fundamenta
 
 - [Challenges](Challenges/README.md)
 - [Learning Paths](Learning-Paths/README.md)
-- [Modules](Modules/README.md)
 - [Networks](Networks/README.md)
-- [Walkthroughs](Walkthroughs/README.md)
 
 ## Difficulty levels
 
