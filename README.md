@@ -1,5 +1,9 @@
 # TryHackMe Writeups
 
+<p align="center">
+	<img src="assets/tryhackme-logo.png" alt="TryHackMe logo" width="320">
+</p>
+
 Personal archive of my notes for TryHackMe rooms, networks, modules, learning paths, and challenges.
 
 > This repository is for educational and documentation purposes. Try to solve the content yourself before using these notes when you get stuck.
@@ -7,10 +11,6 @@ Personal archive of my notes for TryHackMe rooms, networks, modules, learning pa
 ## Current writeups
 
 Start with the introductory rooms below, then continue with the Linux fundamentals series.
-
-<p align="center">
-	<img src="assets/tryhackme-logo.png" alt="TryHackMe logo" width="320">
-</p>
 
 | Room | Focus | Difficulty |
 | --- | --- | --- |
