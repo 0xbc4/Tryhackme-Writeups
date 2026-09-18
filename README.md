@@ -4,7 +4,7 @@
 	<img src="assets/tryhackme-logo.png" alt="TryHackMe logo" width="320">
 </p>
 
-Personal archive of my notes for TryHackMe rooms, networks, modules, learning paths, and challenges.
+Organized TryHackMe writeups for Cyber Security 101, Linux fundamentals, and hands-on cybersecurity learning.
 
 > This repository is for educational and documentation purposes. Try to solve the content yourself before using these notes when you get stuck.
 
