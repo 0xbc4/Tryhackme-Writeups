@@ -29,6 +29,10 @@ http://fakebank.thm
 
 All actions below stay inside the authorized lab environment.
 
+![FakeBank lab homepage](../../assets/room-images/offensive-security-intro/fakebank-homepage.png)
+
+Source: [TryHackMe Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
+
 ## Reconnaissance
 
 A website may contain pages that are not linked from its main navigation. Gobuster can test a list of common names and report paths that exist on the target.

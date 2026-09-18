@@ -32,6 +32,10 @@ The team that focuses on defensive security is the **Blue Team**.
 
 A Security Operations Center is a team of cybersecurity professionals that monitors systems and networks for suspicious or malicious activity. A SOC may investigate:
 
+![SOC analyst character from the room](../../assets/room-images/defensive-security-intro/character.png)
+
+Source: [TryHackMe Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
+
 - Vulnerabilities and missing patches
 - Policy violations
 - Unauthorized account activity

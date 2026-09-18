@@ -51,6 +51,10 @@ The exact result count for broad searches can change over time, so treat numbers
 
 [Shodan](https://www.shodan.io/) indexes Internet-connected devices and services. It can help identify exposed technologies, service versions, and device banners.
 
+![Shodan search example](../../assets/room-images/search-skills/shodan-example.png)
+
+Source: [TryHackMe Search Skills](https://tryhackme.com/room/searchskills)
+
 Example query:
 
 ```text
