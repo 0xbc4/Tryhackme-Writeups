@@ -4,6 +4,24 @@ Personal archive of my notes for TryHackMe rooms, networks, modules, learning pa
 
 > This repository is for educational and documentation purposes. Try to solve the content yourself before using these notes when you get stuck.
 
+## Start here
+
+Begin with these two introductory rooms:
+
+<p align="center">
+	<a href="Walkthroughs/Easy/Offensive_Security_Intro.md">
+		<img src="assets/room-icons/offensive-security-intro.png" alt="Offensive Security Intro" width="180">
+	</a>
+	<a href="Walkthroughs/Easy/Defensive_Security_Intro.md">
+		<img src="assets/room-icons/defensive-security-intro.png" alt="Defensive Security Intro" width="180">
+	</a>
+</p>
+
+| Room | Focus | Difficulty |
+| --- | --- | --- |
+| [Offensive Security Intro](Walkthroughs/Easy/Offensive_Security_Intro.md) | Reconnaissance and web enumeration | Easy |
+| [Defensive Security Intro](Walkthroughs/Easy/Defensive_Security_Intro.md) | Blue teams, SOC, DFIR, and SIEM | Easy |
+
 ## Contents
 
 - [Challenges](Challenges/README.md)
