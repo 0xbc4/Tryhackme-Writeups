@@ -5,7 +5,7 @@
 - Estimated time: 20 minutes
 - Topics: `Linux`, `terminal`, `filesystem`, `find`, `grep`, `shell operators`
 
-![Linux Fundamentals virtual machine](../../assets/room-images/linux-fundamentals-part-1/virtual-machine.png)
+![Linux Fundamentals virtual machine](../../../../assets/room-images/linux-fundamentals-part-1/virtual-machine.png)
 
 Room icon: [TryHackMe CDN](https://cdn-images.tryhackme.com/room-icons/linuxfundamentalspart1-1785241447142.png)
 

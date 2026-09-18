@@ -1,8 +1,5 @@
 # Info Walkthroughs
 
-Informational room walkthroughs will be added here.
+Room writeups are organized by learning path and module.
 
-## Rooms
-
-- [Linux Fundamentals Part 2](Linux_Fundamentals_Part_2.md)
-- [Linux Fundamentals Part 3](Linux_Fundamentals_Part_3.md)
+- [Cyber Security 101](../../Learning-Paths/Easy/Cyber_Security_101/README.md)

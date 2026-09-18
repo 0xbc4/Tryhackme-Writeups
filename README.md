@@ -14,12 +14,12 @@ Start with the introductory rooms below, then continue with the Linux fundamenta
 
 | Room | Focus | Difficulty |
 | --- | --- | --- |
-| [Offensive Security Intro](Walkthroughs/Easy/Offensive_Security_Intro.md) | Reconnaissance and web enumeration | Easy |
-| [Defensive Security Intro](Walkthroughs/Easy/Defensive_Security_Intro.md) | Blue teams, SOC, DFIR, and SIEM | Easy |
-| [Search Skills](Walkthroughs/Easy/Search_Skills.md) | Search engines, OSINT, and vulnerability research | Easy |
-| [Linux Fundamentals Part 1](Walkthroughs/Easy/Linux_Fundamentals_Part_1.md) | Linux commands, filesystems, and shell operators | Easy |
-| [Linux Fundamentals Part 2](Walkthroughs/Info/Linux_Fundamentals_Part_2.md) | SSH, permissions, and common directories | Info |
-| [Linux Fundamentals Part 3](Walkthroughs/Info/Linux_Fundamentals_Part_3.md) | Processes, cron, packages, and logs | Info |
+| [Offensive Security Intro](Learning-Paths/Easy/Cyber_Security_101/Start_Your_Cyber_Security_Journey/Offensive_Security_Intro.md) | Reconnaissance and web enumeration | Easy |
+| [Defensive Security Intro](Learning-Paths/Easy/Cyber_Security_101/Start_Your_Cyber_Security_Journey/Defensive_Security_Intro.md) | Blue teams, SOC, DFIR, and SIEM | Easy |
+| [Search Skills](Learning-Paths/Easy/Cyber_Security_101/Start_Your_Cyber_Security_Journey/Search_Skills.md) | Search engines, OSINT, and vulnerability research | Easy |
+| [Linux Fundamentals Part 1](Learning-Paths/Easy/Cyber_Security_101/Linux_Fundamentals/Linux_Fundamentals_Part_1.md) | Linux commands, filesystems, and shell operators | Easy |
+| [Linux Fundamentals Part 2](Learning-Paths/Easy/Cyber_Security_101/Linux_Fundamentals/Linux_Fundamentals_Part_2.md) | SSH, permissions, and common directories | Info |
+| [Linux Fundamentals Part 3](Learning-Paths/Easy/Cyber_Security_101/Linux_Fundamentals/Linux_Fundamentals_Part_3.md) | Processes, cron, packages, and logs | Info |
 
 ## Contents
 

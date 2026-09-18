@@ -1,3 +1,3 @@
 # Easy Learning Paths
 
-Easy learning path notes will be added here.
+- [Cyber Security 101](Cyber_Security_101/README.md)

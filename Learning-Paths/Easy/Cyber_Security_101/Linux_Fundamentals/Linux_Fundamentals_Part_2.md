@@ -6,7 +6,7 @@
 - Estimated time: 20 minutes
 - Topics: `SSH`, `Linux flags`, `filesystem`, `permissions`, `common directories`
 
-![Linux Fundamentals Part 2 room icon](../../assets/room-icons/linux-fundamentals-part-2.png)
+![Linux Fundamentals Part 2 room icon](../../../../assets/room-icons/linux-fundamentals-part-2.png)
 
 Room icon source: [TryHackMe CDN](https://cdn-images.tryhackme.com/room-icons/linuxfundamentalspart2-1785241447270.png)
 
