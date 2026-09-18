@@ -1,6 +1,6 @@
 # TryHackMe Writeups
 
-<p align="center">
+<p align="left">
 	<img src="assets/tryhackme-logo.png" alt="TryHackMe logo" width="320">
 </p>
 
