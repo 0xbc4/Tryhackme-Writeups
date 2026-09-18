@@ -9,21 +9,7 @@ Personal archive of my notes for TryHackMe rooms, networks, modules, learning pa
 Start with the introductory rooms below, then continue with the Linux fundamentals series.
 
 <p align="center">
-	<a href="Walkthroughs/Easy/Offensive_Security_Intro.md">
-		<img src="assets/room-icons/offensive-security-intro.png" alt="Offensive Security Intro" width="180">
-	</a>
-	<a href="Walkthroughs/Easy/Defensive_Security_Intro.md">
-		<img src="assets/room-icons/defensive-security-intro.png" alt="Defensive Security Intro" width="180">
-	</a>
-	<a href="Walkthroughs/Easy/Search_Skills.md">
-		<img src="assets/room-icons/search-skills.png" alt="Search Skills" width="180">
-	</a>
-	<a href="Walkthroughs/Easy/Linux_Fundamentals_Part_1.md">
-		<img src="assets/room-icons/linux-fundamentals-part-1.png" alt="Linux Fundamentals Part 1" width="180">
-	</a>
-	<a href="Walkthroughs/Info/Linux_Fundamentals_Part_2.md">
-		<img src="assets/room-icons/linux-fundamentals-part-2.png" alt="Linux Fundamentals Part 2" width="180">
-	</a>
+	<img src="assets/tryhackme-logo.png" alt="TryHackMe logo" width="320">
 </p>
 
 | Room | Focus | Difficulty |
